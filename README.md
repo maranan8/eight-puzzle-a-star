@@ -10,7 +10,7 @@
 ## How to run
 1. Clone repository
 ```
-git clone <link>
+git clone https://github.com/maranan8/eight-puzzle-a-star.git
 cd project1
 ```
 2. Compile C++ code using Makefile
