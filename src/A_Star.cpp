@@ -51,6 +51,7 @@ int A_Star::calculateHeuristic(const Puzzle::Board& board, Heuristic heuristic) 
         case Heuristic::NONE:
             return 0;
     }
+    return 0;
 }
 
 std::vector<A_Star::Node> A_Star::findPath(const Puzzle& start, Heuristic heuristic) {
