@@ -11,7 +11,7 @@
 1. Clone repository
 ```
 git clone https://github.com/maranan8/eight-puzzle-a-star.git
-cd project1
+cd eight-puzzle-a-star
 ```
 2. Compile C++ code using Makefile
 ```
